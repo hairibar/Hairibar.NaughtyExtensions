@@ -1,0 +1,20 @@
+{
+    "name": "com.hairibar.naughtyextensions",
+    "version": "0.1.0",
+
+    "displayName": "Hairibar.NaughtyExtensions",
+    "description": "A set of editor utilities built on top of NaughtyAttributes.",
+    "unity": "2019.3",
+    
+    "dependencies": {
+        "com.dbrizov.naughtyattributes": "https://github.com/dbrizov/NaughtyAttributes.git#upm"
+    },
+    "keywords": [
+
+    ],
+    "category": "library",
+
+    "author": {
+        "name": "Aitor Iribar"
+    }
+  }
