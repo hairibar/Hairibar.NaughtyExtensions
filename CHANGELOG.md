@@ -1,5 +1,22 @@
 # Changelog
 
+# [v1.2.0](https://github.com/hairibar/Hairibar.NaughtyExtensions/compare/v1.1.0...v1.2.0)
+
+> 5 January 2021
+
+
+
+### New Features
+
+- Added ConversionUtilities [`bfa5d57`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/bfa5d570bdcdf840cb1aefed7326b8c7cd628f90)
+- Added CustomEditorUtilities [`78592c7`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/78592c7edb67bc77786a22f6a7a75978e7a12a1d)
+- Added TypeUtilities [`7066186`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/70661862e1a15d7fd2dd1d3110fe4b4c7341202a)
+- Added StringUtilities [`5f9c7b1`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/5f9c7b190b9ce5d84af30e5c963745b6c9b90c21)
+- Added ReflectionUtilities [`a663526`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/a663526bc2a810bb44ed02aea7aa048a87fa34ae)
+
+
+
+
 # [v1.1.0](https://github.com/hairibar/Hairibar.NaughtyExtensions/compare/v1.0.0...v1.1.0)
 
 > 22 November 2020
