@@ -16,7 +16,7 @@ namespace Hairibar.NaughtyExtensions.Editor
             }
         }
 
-        static NonLinearSliderDrawer.Function GetQuadraticFunction(float power)
+        public static NonLinearSliderDrawer.Function GetQuadraticFunction(float power)
         {
             return new NonLinearSliderDrawer.Function
             {
