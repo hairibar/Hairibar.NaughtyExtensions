@@ -1,5 +1,18 @@
 # Changelog
 
+# [v1.3.0](https://github.com/hairibar/Hairibar.NaughtyExtensions/compare/v1.2.0...v1.3.0)
+
+> 18 February 2021
+
+
+
+### New Features
+
+- Made QuadraticSliderDrawer.GetQuadraticFunction() public [`593549b`](https://github.com/hairibar/Hairibar.NaughtyExtensions/commit/593549bfa4d94ffe96e55e56f39462f5e7efc984)
+
+
+
+
 # [v1.2.0](https://github.com/hairibar/Hairibar.NaughtyExtensions/compare/v1.1.0...v1.2.0)
 
 > 5 January 2021
