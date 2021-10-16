@@ -5,7 +5,7 @@
     "description": "A set of editor utilities built on top of NaughtyAttributes.",
     "unity": "2019.3",
     "dependencies": {
-        "com.dbrizov.naughtyattributes": "2.0.7"
+        "com.dbrizov.naughtyattributes": "2.1.1"
     },
     "keywords": [],
     "category": "library",
